@@ -31,7 +31,8 @@ End-to-end electronic camshaft replacement system achieving 1000 ppm cutting and
 - Delivered faster ROI for customers due to reduced labor, higher uptime, and lower hardware cost.<br>
 ## My Contribution
 Full system design, implementation, tuning, test validation.<br>
-
+## Technical PDF 
+[Technical PDF | click here](https://github.com/sinfu98android/High-Speed-Multi-Servo-Synchronization-1000ppm/blob/e6ad8d3f562344ac4780f869fa6f89461b8df569/Technical%20PDF%20-%20Hi-speed%20Multi-Servo%20Sync%20-%201000%20ppm.pdf) <br>
 ## Diagram
 ![system Architecture Diagram](https://github.com/sinfu98android/High-Speed-Multi-Servo-Synchronization/blob/b6749d74decd6ab212c0413ad3d1393b236bba14/System%20Architect%20Diagram.jpg)
 <br>
